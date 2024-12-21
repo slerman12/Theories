@@ -1,0 +1,1 @@
+Quantized Doppler-Shifted Special and General-Relativistic Phase-Unifying Jerk-Minimizing Multi-Head Sampled Memory-Persistent Wave Packets Unified Theory and Reproduced M1 MacBook Diffraction, Doppler Effect, and Atomic Spectra Simulations Implemented Differentiably

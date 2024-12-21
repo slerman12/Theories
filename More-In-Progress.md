@@ -1,0 +1,10 @@
+- A Computational Model of Primitive Consciousness
+- A Deep Neural Physics Model of Primitive Consciousness and Intelligent Optimization
+- A Deep Neural Physics Model of Primitive Consciousness and Intelligent Evolution Through Wace-Particle Duality
+  - Nah, just add to main diffraction paper
+- A Physics Theory for Singularization from Multitudes and Primordial Consciousness with in-Simulo Multi-Slit Diffraction Experiments
+- Machinations of God through Quantum Statistical Divergence [and Imperceptible Controlled Evolutions within Physics]
+- Mechanism of Deus Ex Machina: Imperceptible Controllable Evolutions within Physics via Quantum Statistical Divergences
+- Animism as Math and Physics: Consciousness Theory as Quantum Singularization Demonstrated with In-Simulation Double-Slit Diffraction Experiments
+  - of Molecules/Composite Particles with Detectors
+  - via Heads and Threads

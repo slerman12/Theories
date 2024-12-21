@@ -1,0 +1,16 @@
+Arithmetic (numbers and functional relationships) $\rightarrow$ Algebra (variables) $\rightarrow$ Calculus (how those variables change at different points, and how those changes change, etc.) $\rightarrow$ Optimization or decision (how to change those variables at different points towards a teleology, a goal, a objective, or by some will or order) A.K.A. intelligence/consciousness/singularizing-experience-and-distributed-intelligence. 
+
+Newtonian mechanics arises naturally from calculus. Positions as functions, velocities as derivatives, accelerations as double derivatives. The math describes a fundamental property of nature from which physical circumstances can be naturally found to line up with. 
+
+Meanwhile, something like the Schrodinger equation observes that light produces wave patterns on a projection screen and thus multiplies a wave function to both sides of a Hamiltonian. It doesn’t emerge elegantly from the math so much as it fits the math to an empirical observation. In contrast, Optimization or decision might pave the path toward a unified model of physics that lines up with the math by virtue of that math’s fundamental description of the teleological properties potentially observable in the universe’s nature or decision-making patterns, not bizarre moldings of our math to unintuitive “accidents” (rather than derivable from optimization needs e.g. differentiability) like wave-particle duality (which I suspect is more numerically tractable for differentiation and non-local trajectory search). From an optimization or decision perspective, bizarre findings like the double-slit interference patterns aren’t accidents but potentially naturally derivable, as tractable solutions to optimization or decision (search) mechanisms. 
+
+Evidenced intelligences demonstrated within a deeper order of physics not known to the standard model of physics:
+- Non-local communication
+- Longish-term memory
+- Semantic reasoning 
+
+Some of my evidence described personally is available [here](https://github.com/animal-tree/Synchronicities/blob/main/Does-anyone-else-think-this-is-proof-of-God%3F.md) and [here](https://github.com/animal-tree/Radical-ideas/blob/main/Conflict-in-the-Middle-East.md). 
+
+Further synchronicities not described seem to, at least on the surface, include physical coincidences as well, perhaps independent from what is considered biological intelligence (e.g. cannot be explained as telepathy or precognition, sort of, though the interferences that I've witnessed can actually, though sometimes implausibly, be explained by telepathy and precognition and so can most paranormal synchronicities if one's consciousness can be latently accomplice in the timing; unless you believe in miracles like those described biblically, which I have not personally witnessed).
+
+Unfortunately, thus far, "conspiratorial occult-like phenomenon" can explain most of these statistical anomolies [at least as much as](https://github.com/animal-tree/Synchronicities/blob/main/Synchronicity-Paranoias.md) an optimistic religious interpretation; and with full context, "coincidence" becomes impossible to absurd, that is, the p-value under a reasonable set of assumptions would probably be below 0.05 if one were and could be personally computed (with the standard model, rather than Optimization/decision model, as null hypothesis).
