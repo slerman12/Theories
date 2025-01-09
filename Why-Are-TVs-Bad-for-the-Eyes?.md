@@ -332,6 +332,8 @@ This bodes well for the health safety beliefs around 5g and the future of such t
 
 ## Mass Production of Mass Production / Anti-Homogenization / Anti-Monopolization
 
+> The conclusions and ideas in this are good, but the example used of TVs isn't super good since how would AI and robotics simplify TV engineering beyond the current technologies? 3D printers maybe
+
 For just aesthetic reasons, I suggest bringing back swivel stands for TVs and more-creative/less-homogenized frame designs for TVs, as mass production with AI is only going to increase the risk of homogenization in manufacturing, and possibly the monopolization of mass production tools. 
 
 For more serious reasons, I suggest attention to the issue of homogenization and the lack of vendors and competition of mass production technologies, which are becoming ever more monopolized and capitalism’s choices becoming narrower, more controlled and less creative.  
